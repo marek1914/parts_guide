@@ -17,7 +17,26 @@ Female header 2x3 0.1" | PPPC032LFBN-RC | S7106-ND| ![S7106-ND](/images/PPPC032L
 Male header 2x3 0.1" (useful for Arduino ICSP headers) | 961206-6404-AR | 3M9459-ND | ![3M9459-ND](/images/961206-6404-AR_sml.jpg)
 Shunt Jumper 0.1" | 969102-0000-DA | 3M9580-ND | ![3M9580-ND](/images/969102-0000-DA_sml.jpg)
 
+# JST connectors
+### PH-series, 2-mm pin spacing, often found on small Li-Ion batteries
+Part | Manufacturer PN| Digikey PN | Image
+-----|------------|--------|---
+JST PH-series 2.0mm male surface mount | B2B-PH-SM4-TB(LF)(SN) | 455-1734-6-ND | ![455-1734-6-ND](/images/B2B-PH-SM4-TB_sml.jpg)
+JST PH-series 2.0mm male through hole | B2B-PH-K-S(LF)(SN) | 455-1704-ND | ![455-1704-ND](/images/B2B-PH-K-S_sml.jpg)
+JST PH-series 2.0mm female housing | PHR-2 | 455-1165-ND | ![455-1165-ND](/images/PHR-2_sml.jpg)
+JST PH-series crimp pin 24-30AWG for female housing | SPH-002T-P0.5S | 455-1127-2-ND | ![455-1127-2-ND](/images/SPH-002T-P0.5S_sml.jpg)
 
+# Buttons (tactile switches)
+Part | Manufacturer PN|Digikey PN | Image
+-----|------------|--------|---
+Tactile switch, surface mount | B3S-1000P | SW836CT-ND | ![SW836CT-ND](/images/B3S-1000P.jpg)
+Tactile switch, through-hole | 1825910-6 | 450-1650-ND | ![450-1650-ND](/images/FSM4JH_sml.jpg)
+
+# Battery holders
+Part | Manufacturer PN|Digikey PN | Image
+-----|------------|--------|---
+CR1220 battery holder, surface mount | 3000TR | 3000KCT-ND| ![3000KCT-ND](/images/3000TR_sml.JPG)
+CR1220 battery holder, through hole | 3001 | 3001K-ND | ![3001K-ND](/images/3001_sml.jpg)
 # Tools etc.
 Part | Manufacturer PN|Digikey PN | Image
 -----|------------|--------|---
