@@ -19,11 +19,12 @@ Shunt Jumper 0.1" | 969102-0000-DA | 3M9580-ND | ![3M9580-ND](/images/969102-000
 
 # JST connectors
 ### PH-series, 2-mm pin spacing, often found on small Li-Ion batteries
+### For crimping, try "Engineer PA-09 connector pliers" on Amazon or elsewhere
 Part | Manufacturer PN| Digikey PN | Image
 -----|------------|--------|---
-JST PH-series 2.0mm male surface mount | B2B-PH-SM4-TB(LF)(SN) | 455-1734-6-ND | ![455-1734-6-ND](/images/B2B-PH-SM4-TB_sml.jpg)
-JST PH-series 2.0mm male through hole | B2B-PH-K-S(LF)(SN) | 455-1704-ND | ![455-1704-ND](/images/B2B-PH-K-S_sml.jpg)
-JST PH-series 2.0mm female housing | PHR-2 | 455-1165-ND | ![455-1165-ND](/images/PHR-2_sml.jpg)
+JST PH-series 2.0mm male header surface mount | B2B-PH-SM4-TB(LF)(SN) | 455-1734-6-ND | ![455-1734-6-ND](/images/B2B-PH-SM4-TB_sml.jpg)
+JST PH-series 2.0mm male header through hole | B2B-PH-K-S(LF)(SN) | 455-1704-ND | ![455-1704-ND](/images/B2B-PH-K-S_sml.jpg)
+JST PH-series 2.0mm female housing (for attaching to loose wires) | PHR-2 | 455-1165-ND | ![455-1165-ND](/images/PHR-2_sml.jpg)
 JST PH-series crimp pin 24-30AWG for female housing | SPH-002T-P0.5S | 455-1127-2-ND | ![455-1127-2-ND](/images/SPH-002T-P0.5S_sml.jpg)
 
 # Buttons (tactile switches)
@@ -37,6 +38,13 @@ Part | Manufacturer PN|Digikey PN | Image
 -----|------------|--------|---
 CR1220 battery holder, surface mount | 3000TR | 3000KCT-ND| ![3000KCT-ND](/images/3000TR_sml.JPG)
 CR1220 battery holder, through hole | 3001 | 3001K-ND | ![3001K-ND](/images/3001_sml.jpg)
+
+# Voltage regulator
+Part | Manufacturer PN|Digikey PN | Image
+-----|------------|--------|---
+MCP1700 3.3V low dropout linear regulator 250mA through hole | MCP1700-3302E/TO | MCP1700-3302E/TO-ND | ![MCP1700-3302E/TO-ND](/images/TO-92-3_sml.jpg)
+MCP1700 3.3V low dropout linear regulator 250mA surface mount SOT-23-3| MCP1700T-3302E/TT | MCP1700T3302ETTCT-ND | ![MCP1700T3302ETTCT-ND](/images/SOT-23-3_PKG_sml.jpg)
+MCP1700 3.0V low dropout linear regulator 250mA surface mount SOT-23-3 | MCP1700T-3002E/TT | MCP1700T-3002E/TTCT-ND | ![MCP1700T-3002E/TTCT-ND](/images/SOT-23-3_PKG_sml.jpg)
 # Tools etc.
 Part | Manufacturer PN|Digikey PN | Image
 -----|------------|--------|---
