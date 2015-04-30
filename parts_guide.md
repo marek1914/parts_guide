@@ -61,6 +61,10 @@ ATtiny84A surface mount 14-SOIC | ATTINY84A-SSUR | ATTINY84A-SSURCT-ND | ![ATTIN
 ATtiny85V surface mount 8-SOIC | ATTINY85V-10SUR  | ATTINY85V-10SURCT-ND | ![ATTINY85V-10SURCT-ND](/images/8-SOIC_sml.jpg)
 ATtiny2313A surface mount 20-SOIC | ATTINY2313A-SUR | ATTINY2313A-SURCT-ND | ![ATTINY2313A-SURCT-ND](/images/20-SOIC_sml.jpg)
 
+# IC Socket
+Part | Manufacturer PN|Digikey PN | Image
+-----|------------|--------|---
+28-DIP socket, appropriate for Arduino ATmega328P DIP version |  4828-3004-CP | 3M5480-ND | ![3M5480-ND](/images/4828-3004-CP_sml.jpg)
 # Real time clock chips
 Part | Manufacturer PN|Digikey PN | Image
 -----|------------|--------|---
