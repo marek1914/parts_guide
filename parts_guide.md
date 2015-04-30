@@ -49,7 +49,8 @@ MCP1700 3.0V low dropout linear regulator 250mA surface mount SOT-23-3 | MCP1700
 # Real time clock chips
 Part | Manufacturer PN|Digikey PN | Image
 -----|------------|--------|---
-DS3231S Real Time Clock surface mount SOIC-16 WIDE | DS3231SN# | DS3231SN#-ND | ![DS3231SN#-ND] (/images/175-16-SOICW_sml.jpg)
+DS3231S Real Time Clock surface mount SOIC-16 WIDE | DS3231S# | DS3231S#-ND | ![DS3231S#-ND] (/images/175-16-SOICW_sml.jpg)
+DS3231M Real Time Clock surface mount 8-SOIC (this part is smaller + cheaper than the DS3231S, but slightly lower precision timekeeping and fewer square-wave output frequencies) | DS3231MZ/V+ |DS3231MZ/V+-ND | ![DS3231MZ/V+-ND](/images/8-SOIC_sml.jpg)
 # Tools etc.
 Part | Manufacturer PN|Digikey PN | Image
 -----|------------|--------|---
