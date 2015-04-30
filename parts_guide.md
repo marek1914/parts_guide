@@ -38,6 +38,12 @@ Part | Manufacturer PN|Digikey PN | Image
 -----|------------|--------|---
 CR1220 battery holder, surface mount | 3000TR | 3000KCT-ND| ![3000KCT-ND](/images/3000TR_sml.JPG)
 CR1220 battery holder, through hole | 3001 | 3001K-ND | ![3001K-ND](/images/3001_sml.jpg)
+CR1632 battery holder, through hole | 3013 | 3013K-ND | ![3013K-ND](/images/3013_sml.jpg)
+
+# SD card slot
+Part | Manufacturer PN|Digikey PN | Image
+-----|------------|--------|---
+Micro SD card slot, push-push spring loaded, surface mount | 2908-05WB-MG | 3M5607CT-ND | ![3M5607CT-ND](/images/2908-05WB-MG_sml.jpg)
 
 # Voltage regulator
 Part | Manufacturer PN|Digikey PN | Image
@@ -60,6 +66,7 @@ Part | Manufacturer PN|Digikey PN | Image
 -----|------------|--------|---
 DS3231S Real Time Clock surface mount SOIC-16 WIDE | DS3231S# | DS3231S#-ND | ![DS3231S#-ND] (/images/175-16-SOICW_sml.jpg)
 DS3231M Real Time Clock surface mount 8-SOIC (this part is smaller + cheaper than the DS3231S, but slightly lower precision timekeeping and fewer square-wave output frequencies) | DS3231MZ/V+ |DS3231MZ/V+-ND | ![DS3231MZ/V+-ND](/images/8-SOIC_sml.jpg)
+
 # Tools etc.
 Part | Manufacturer PN|Digikey PN | Image
 -----|------------|--------|---
