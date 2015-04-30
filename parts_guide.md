@@ -76,7 +76,8 @@ DS3231M Real Time Clock surface mount 8-SOIC (this part is smaller + cheaper tha
 # Power plug
 Part | Manufacturer PN|Digikey PN | Image
 -----|------------|--------|---
-2.1mm Female plug (plugs in to Arduino DC power connector) | PP3-002A  | CP3-1000-ND | ![CP3-1000-ND](/images/PP3-002A_sml.jpg)
+2.1mm center Female plug (plugs in to Arduino DC power connector) | PP3-002A  | CP3-1000-ND | ![CP3-1000-ND](/images/PP3-002A_sml.jpg)
+2.1mm center pin Male receptacle (similar to Arduino DC power jack) | PJ-202AH | CP-202AH-ND | ![CP-202AH-ND](/images/PJ-202AH_sml.jpg)
 
 # Tools etc.
 Part | Manufacturer PN|Digikey PN | Image
