@@ -46,6 +46,15 @@ MCP1700 3.3V low dropout linear regulator 250mA through hole | MCP1700-3302E/TO 
 MCP1700 3.3V low dropout linear regulator 250mA surface mount SOT-23-3| MCP1700T-3302E/TT | MCP1700T3302ETTCT-ND | ![MCP1700T3302ETTCT-ND](/images/SOT-23-3_PKG_sml.jpg)
 MCP1700 3.0V low dropout linear regulator 250mA surface mount SOT-23-3 | MCP1700T-3002E/TT | MCP1700T-3002E/TTCT-ND | ![MCP1700T-3002E/TTCT-ND](/images/SOT-23-3_PKG_sml.jpg)
 
+# AVR chips
+Part | Manufacturer PN|Digikey PN | Image
+-----|------------|--------|---
+ATnega328P-PN through hole 28-DIP | ATMEGA328P-PN | ATMEGA328P-PN-ND | ![ATMEGA328P-PN-ND](/images/28-PDip_sml.jpg)
+ATmega328P-AU surface mount 32TQFP | ATMEGA328P-AU | ATMEGA328P-AU-ND | ![ATMEGA328P-AU-ND](/images/AT42QT1111-AU_sml.jpg)
+ATtiny84A surface mount 14-SOIC | ATTINY84A-SSUR | ATTINY84A-SSURCT-ND | ![ATTINY84A-SSURCT-ND](/images/14-SOIC_sml.jpg)
+ATtiny85V surface mount 8-SOIC | ATTINY85V-10SUR  | ATTINY85V-10SURCT-ND | ![ATTINY85V-10SURCT-ND](/images/8-SOIC_sml.jpg)
+ATtiny2313A surface mount 20-SOIC | ATTINY2313A-SUR | ATTINY2313A-SURCT-ND | ![ATTINY2313A-SURCT-ND](/images/20-SOIC_sml.jpg)
+
 # Real time clock chips
 Part | Manufacturer PN|Digikey PN | Image
 -----|------------|--------|---
