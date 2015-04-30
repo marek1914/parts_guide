@@ -45,6 +45,11 @@ Part | Manufacturer PN|Digikey PN | Image
 MCP1700 3.3V low dropout linear regulator 250mA through hole | MCP1700-3302E/TO | MCP1700-3302E/TO-ND | ![MCP1700-3302E/TO-ND](/images/TO-92-3_sml.jpg)
 MCP1700 3.3V low dropout linear regulator 250mA surface mount SOT-23-3| MCP1700T-3302E/TT | MCP1700T3302ETTCT-ND | ![MCP1700T3302ETTCT-ND](/images/SOT-23-3_PKG_sml.jpg)
 MCP1700 3.0V low dropout linear regulator 250mA surface mount SOT-23-3 | MCP1700T-3002E/TT | MCP1700T-3002E/TTCT-ND | ![MCP1700T-3002E/TTCT-ND](/images/SOT-23-3_PKG_sml.jpg)
+
+# Real time clock chips
+Part | Manufacturer PN|Digikey PN | Image
+-----|------------|--------|---
+DS3231S Real Time Clock surface mount SOIC-16 WIDE | DS3231SN# | DS3231SN#-ND | ![DS3231SN#-ND] (/images/175-16-SOICW_sml.jpg)
 # Tools etc.
 Part | Manufacturer PN|Digikey PN | Image
 -----|------------|--------|---
