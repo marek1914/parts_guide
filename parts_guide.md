@@ -55,7 +55,7 @@ MCP1700 3.0V low dropout linear regulator 250mA surface mount SOT-23-3 | MCP1700
 # AVR chips
 Part | Manufacturer PN|Digikey PN | Image
 -----|------------|--------|---
-ATnega328P-PN through hole 28-DIP (standard Arduino Uno chip) | ATMEGA328P-PN | ATMEGA328P-PN-ND | ![ATMEGA328P-PN-ND](/images/28-PDip_sml.jpg)
+ATmega328P-PN through hole 28-DIP (standard Arduino Uno chip) | ATMEGA328P-PN | ATMEGA328P-PN-ND | ![ATMEGA328P-PN-ND](/images/28-PDip_sml.jpg)
 ATmega328P-AU surface mount 32TQFP | ATMEGA328P-AU | ATMEGA328P-AU-ND | ![ATMEGA328P-AU-ND](/images/AT42QT1111-AU_sml.jpg)
 ATtiny84A surface mount 14-SOIC | ATTINY84A-SSUR | ATTINY84A-SSURCT-ND | ![ATTINY84A-SSURCT-ND](/images/14-SOIC_sml.jpg)
 ATtiny85V surface mount 8-SOIC | ATTINY85V-10SUR  | ATTINY85V-10SURCT-ND | ![ATTINY85V-10SURCT-ND](/images/8-SOIC_sml.jpg)
@@ -83,6 +83,9 @@ Part | Manufacturer PN|Digikey PN | Image
 -----|------------|--------|---
 Solder, leaded 60/40 0.015" diameter Rosin activated| 389261 |82-105-ND | ![82-105-ND](/images/MM01019_sml.jpg)
 Solder, leaded 60/40 0.024" diameter, Rosin activated | 386824 | 82-104-ND | ![82-104-ND](/images/MM00992_sml.jpg)
+Flux pen Rosin Mildly Activated| 760089 | 82-145-ND | ![82-145-ND](/images/760089_sml.jpg)
+Flux remover pen for Rosin Activated | CW9200 | CW9200-ND | ![CW9200-ND](/images/CW9200_sml.jpg)
+Solder paste, leaded, water soluble | SMD4300AX10T5 | SMD4300AX10T5-ND | ![SMD4300AX10T5-ND](/images/MFG_SMD4300AX10T5_sml.jpg)
 
 
 
