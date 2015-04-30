@@ -85,7 +85,7 @@ Solder, leaded 60/40 0.015" diameter Rosin activated| 389261 |82-105-ND | ![82-1
 Solder, leaded 60/40 0.024" diameter, Rosin activated | 386824 | 82-104-ND | ![82-104-ND](/images/MM00992_sml.jpg)
 Flux pen Rosin Mildly Activated| 760089 | 82-145-ND | ![82-145-ND](/images/760089_sml.jpg)
 Flux remover pen for Rosin Activated | CW9200 | CW9200-ND | ![CW9200-ND](/images/CW9200_sml.jpg)
-Solder paste, leaded, water soluble | SMD4300AX10T5 | SMD4300AX10T5-ND | ![SMD4300AX10T5-ND](/images/MFG_SMD4300AX10T5_sml.jpg)
+Solder paste, leaded, water soluble, 10cc syringe | SMD4300AX10T5 | SMD4300AX10T5-ND | ![SMD4300AX10T5-ND](/images/MFG_SMD4300AX10T5_sml.jpg)
 
 
 
