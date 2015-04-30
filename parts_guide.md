@@ -55,21 +55,28 @@ MCP1700 3.0V low dropout linear regulator 250mA surface mount SOT-23-3 | MCP1700
 # AVR chips
 Part | Manufacturer PN|Digikey PN | Image
 -----|------------|--------|---
-ATnega328P-PN through hole 28-DIP | ATMEGA328P-PN | ATMEGA328P-PN-ND | ![ATMEGA328P-PN-ND](/images/28-PDip_sml.jpg)
+ATnega328P-PN through hole 28-DIP (standard Arduino Uno chip) | ATMEGA328P-PN | ATMEGA328P-PN-ND | ![ATMEGA328P-PN-ND](/images/28-PDip_sml.jpg)
 ATmega328P-AU surface mount 32TQFP | ATMEGA328P-AU | ATMEGA328P-AU-ND | ![ATMEGA328P-AU-ND](/images/AT42QT1111-AU_sml.jpg)
 ATtiny84A surface mount 14-SOIC | ATTINY84A-SSUR | ATTINY84A-SSURCT-ND | ![ATTINY84A-SSURCT-ND](/images/14-SOIC_sml.jpg)
 ATtiny85V surface mount 8-SOIC | ATTINY85V-10SUR  | ATTINY85V-10SURCT-ND | ![ATTINY85V-10SURCT-ND](/images/8-SOIC_sml.jpg)
 ATtiny2313A surface mount 20-SOIC | ATTINY2313A-SUR | ATTINY2313A-SURCT-ND | ![ATTINY2313A-SURCT-ND](/images/20-SOIC_sml.jpg)
 
+
 # IC Socket
 Part | Manufacturer PN|Digikey PN | Image
 -----|------------|--------|---
 28-DIP socket, appropriate for Arduino ATmega328P DIP version |  4828-3004-CP | 3M5480-ND | ![3M5480-ND](/images/4828-3004-CP_sml.jpg)
+
 # Real time clock chips
 Part | Manufacturer PN|Digikey PN | Image
 -----|------------|--------|---
 DS3231S Real Time Clock surface mount SOIC-16 WIDE | DS3231S# | DS3231S#-ND | ![DS3231S#-ND] (/images/175-16-SOICW_sml.jpg)
 DS3231M Real Time Clock surface mount 8-SOIC (this part is smaller + cheaper than the DS3231S, but slightly lower precision timekeeping and fewer square-wave output frequencies) | DS3231MZ/V+ |DS3231MZ/V+-ND | ![DS3231MZ/V+-ND](/images/8-SOIC_sml.jpg)
+
+# Power plug
+Part | Manufacturer PN|Digikey PN | Image
+-----|------------|--------|---
+2.1mm Female plug (plugs in to Arduino DC power connector) | PP3-002A  | CP3-1000-ND | ![CP3-1000-ND](/images/PP3-002A_sml.jpg)
 
 # Tools etc.
 Part | Manufacturer PN|Digikey PN | Image
