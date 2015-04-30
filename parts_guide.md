@@ -21,8 +21,7 @@ Shunt Jumper 0.1" | 969102-0000-DA | 3M9580-ND | ![3M9580-ND](/images/969102-000
 # Tools etc.
 Part | Manufacturer PN|Digikey PN | Image
 -----|------------|--------|---
-Solder, leaded 60/40 0.015" diameter Rosin activated| 	
-389261 |82-105-ND | ![82-105-ND](/images/MM01019_sml.jpg)
+Solder, leaded 60/40 0.015" diameter Rosin activated| 389261 |82-105-ND | ![82-105-ND](/images/MM01019_sml.jpg)
 Solder, leaded 60/40 0.024" diameter, Rosin activated | 386824 | 82-104-ND | ![82-104-ND](/images/MM00992_sml.jpg)
 
 
