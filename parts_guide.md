@@ -43,7 +43,8 @@ CR1632 battery holder, through hole | 3013 | 3013K-ND | ![3013K-ND](/images/3013
 # SD card slot
 Part | Manufacturer PN|Digikey PN | Image
 -----|------------|--------|---
-Micro SD card slot, push-push spring loaded, surface mount | 2908-05WB-MG | 3M5607CT-ND | ![3M5607CT-ND](/images/2908-05WB-MG_sml.jpg)
+Micro SD card slot, push-push spring loaded, surface mount with pins in the center of the housing, only barely accessible. 3M| 2908-05WB-MG | 3M5607CT-ND | ![3M5607CT-ND](/images/2908-05WB-MG_sml.jpg)
+Micro SD card slot, push-push spring loaded, surface mount "reverse mount" with pins easily accessible at rear of housing. Molex| 5027740891 | WM24066CT-ND | ![WM24066CT-ND](/images/5027740891_tmb.jpg)
 
 # Voltage regulator
 Part | Manufacturer PN|Digikey PN | Image
