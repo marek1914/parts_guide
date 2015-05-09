@@ -1,8 +1,10 @@
 # Headers and terminals
 Part | Manufacturer PN|Digikey PN | Image
 -----|------------|--------|---
-2-position screw terminal | EDZ250/2|ED1973-ND | ![ED1973-ND](/images/ED1973-ND.jpg)
-3-position screw terminal | EDZ250/3|ED1974-ND | ![ED1974-ND](/images/ED1974-ND.jpg)
+2-position screw terminal, 0.2" spacing (interlocking, so you can make continuous blocks of any length)| EDZ250/2|ED1973-ND | ![ED1973-ND](/images/ED1973-ND.jpg)
+3-position screw terminal 0.2" spacing (interlocking, so you can make continuous blocks of any length)| EDZ250/3|ED1974-ND | ![ED1974-ND](/images/ED1974-ND.jpg)
+2-position screw terminal 0.1" spacing (not interlocking)| OSTVN02A150 | ED10561-ND | ![ED10561-ND](/images/OSTVN02A150_sml.JPG)
+3-position screw terminal 0.1" spacing (not interlocking)| OSTVN03A150 | ED10562-ND | ![ED10562-ND](/images/OSTVN03A150_sml.jpg)
 Header male, breakaway 40-pin 0.1" | 4-103185-0 | A26513-40-ND | ![A26513-40-ND](/images/4-103185-0.jpg)
 Female header 2-position 0.1" | PPPC021LFBN-RC | S7035-ND | ![S7035-ND](/images/PPPC021LFBN-RC_sml.jpg)
 Female header 3-position 0.1" | PPPC031LFBN-RC | S7036-ND | ![S7036-ND](/images/PPPC031LFBN-RC_sml.jpg)
