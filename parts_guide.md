@@ -46,6 +46,12 @@ Part | Manufacturer PN | Digikey PN | Image
 Tactile switch, surface mount | B3S-1000P | SW836CT-ND | ![SW836CT-ND](/images/B3S-1000P.jpg)
 Tactile switch, through-hole | 1825910-6 | 450-1650-ND | ![450-1650-ND](/images/FSM4JH_sml.jpg)
 
+# Switches
+Part | Manufacturer PN | Digikey PN | Image
+-----|------------|--------|---
+Slide Switch, surface mount (Copal) | CSS-1210TB | 563-1091-1-ND | ![563-1091-1-ND](/images/CSS-1210TB_sml.jpg)
+
+
 # Battery holders
 Part | Manufacturer PN | Digikey PN | Image
 -----|------------|--------|---
